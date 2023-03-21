@@ -4,6 +4,10 @@
 Welcome to the Discord Shopify Tracking Bot repository! <br>
 This bot allows you to track sales and data for your Shopify products and stores, and receive regular updates on their performance.<br>
 
+
+![Disisiss](https://user-images.githubusercontent.com/82426784/226516946-494a2dde-ba5e-47f7-bb89-1ccac2fcfe80.png)
+
+
 ### Bot
 To use the bot, add the following to config.py Mongo Token, Discord Bot Token, Mongo DB name
 0.5 Commands<br>
