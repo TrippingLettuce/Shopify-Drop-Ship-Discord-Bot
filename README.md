@@ -9,7 +9,7 @@ To use the bot, add the following to config.py Mongo Token, Discord Bot Token, M
 0.5 Commands<br>
     &emsp;/track_product - Track a product(s) sales. Requires a product link.<br>
     &emsp;/check_product_data - Check total sales and data for a specific product. Requires a product link.<br>
-![Disisiss](https://user-images.githubusercontent.com/82426784/226516946-494a2dde-ba5e-47f7-bb89-1ccac2fcfe80.png){: width="50px"}
+![Disisiss](https://user-images.githubusercontent.com/82426784/226516946-494a2dde-ba5e-47f7-bb89-1ccac2fcfe80.png){: width="10px"}
 
 Note: If you're tracking a new store, you must first use /track_product.<br>
 ![alt text](https://cdn.discordapp.com/attachments/1062641874852122735/1080413136441577493/ezgif.com-video-to-gif.gif)
