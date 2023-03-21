@@ -1,5 +1,5 @@
 # Discord Shopify Tracking Bot
-*Example:*
+*Tracking Example:*<br>
 <img src="https://user-images.githubusercontent.com/82426784/226516946-494a2dde-ba5e-47f7-bb89-1ccac2fcfe80.png" alt="Disisiss" style="width: 400px;"/><br>
 (Some of this was written with an AI btw :) )<br>
 Welcome to the Discord Shopify Tracking Bot repository! <br>
